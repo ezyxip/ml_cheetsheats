@@ -44,8 +44,14 @@
 
 
 Ссылочки для пересдачи:
+
+https://drive.google.com/drive/folders/1hcu59dJqyqdsxo6q86KDcSuKOWYk1Pwl?usp=sharing - шаблоны с пмифи
+
 https://colab.research.google.com/drive/1U3v2jjapGHk0cVIyI1x4UbWYdUs3JCp7?usp=sharing - Регрессия
+
 https://colab.research.google.com/drive/1KhspWsn-lTCmbbZuQ9BneC4kFzev3_La?usp=sharing - Классификация
+
+
 
 
 
